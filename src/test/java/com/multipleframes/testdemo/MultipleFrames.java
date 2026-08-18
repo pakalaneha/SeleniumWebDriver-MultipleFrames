@@ -19,7 +19,7 @@ public class MultipleFrames {
 
 	@Test
 	public void testMultipleFrames() throws InterruptedException {
-		String frameHtmlPath = "file:\\C:\\Users\\pakal\\Neha\\docs\\coforge\\Testing\\IFrame\\IFrame.html";
+		String frameHtmlPath = "file:\\C:\\IFrame\\IFrame.html";
 		
 		driver.get(frameHtmlPath);
 
